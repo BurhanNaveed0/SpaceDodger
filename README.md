@@ -2,33 +2,34 @@
 
 A top down style video 
 
-![demo](https://github.com/BurhanNaveed0/GPU-Radar/assets/81490717/6d729cb8-dd42-4707-8766-a9763027d493)
+![compressedgifdemo](https://github.com/BurhanNaveed0/SpaceDodger/assets/81490717/d91f54cd-fc52-49f2-ae6a-5d0c4e1c3016)
 
 ## Technologies Used 👨‍💻
 <details>
+  <summary> App 📱</summary>
   <ul>
     <li><a href="https://www.java.com/en/">Java</a></li>
     <li><a href="">XML</a></li>
     <li><a href="https://developer.android.com/studio?gad_source=1&gclid=CjwKCAjw-O6zBhASEiwAOHeGxXeWZgT9muC50iZgfEeWoWRSc1p7O5V8lqIsRCIpYqx4VqIfEuMYvBoCR6AQAvD_BwE&gclsrc=aw.ds">Android Studio</a></li>
   </ul>
+
+  <summary> Assets 🎨</summary>
+  <ul>
+    <li><a href="https://itch.io/">Itch.io</a></li>
+  </ul>
 </details>
 
 ## Project Status ✔
-Project complete; Git repo up to date. App version Rainforest API access expired; Android SDK/API Level outdated. 
+Project complete; Git repo up to date. 
 
 ## Project Demo / Code Reviews 📲
 
 <ul>
-    <li><a href="https://youtu.be/uYKIHIpRv1M">App Demo</a></li>
-    <li><a href="https://youtu.be/Wfq9cpOj2pw">Frontend Code Review</a></li>
-    <li><a href="https://youtu.be/lbJeoeuNTL0">Backend Code Review</a></li>
-  </ul>
+    <li><a href="https://youtu.be/TEYuYg3XGRE">Game Demo</a></li>
+</ul>
 
-Front End 📱 (Android Studio + Java) <br /> 
-![frontendgif](https://github.com/BurhanNaveed0/GPU-Radar/assets/81490717/da0ad10f-50ba-4775-a17b-77e2b6892eb2)
-
-Back End 📚 (Firebase + Python) <br />
-![backend](https://github.com/BurhanNaveed0/GPU-Radar/assets/81490717/4bd5cc3c-4f9d-4aee-b0e8-1de38d124361)
+Motion control using onboard rotation sensor 🔄
+![tiltingdemo](https://github.com/BurhanNaveed0/SpaceDodger/assets/81490717/b918f18c-7e24-487f-8e71-96c579fe8791)
 
 ## Reflection 📝
 
