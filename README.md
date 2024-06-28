@@ -12,7 +12,9 @@ A top down style video
     <li><a href="">XML</a></li>
     <li><a href="https://developer.android.com/studio?gad_source=1&gclid=CjwKCAjw-O6zBhASEiwAOHeGxXeWZgT9muC50iZgfEeWoWRSc1p7O5V8lqIsRCIpYqx4VqIfEuMYvBoCR6AQAvD_BwE&gclsrc=aw.ds">Android Studio</a></li>
   </ul>
+</details>
 
+<details>
   <summary> Assets 🎨</summary>
   <ul>
     <li><a href="https://itch.io/">Itch.io</a></li>
@@ -27,6 +29,8 @@ Project complete; Git repo up to date.
 <ul>
     <li><a href="https://youtu.be/TEYuYg3XGRE">Game Demo</a></li>
 </ul>
+
+</br>
 
 Motion control using onboard rotation sensor 🔄
 ![tiltingdemo](https://github.com/BurhanNaveed0/SpaceDodger/assets/81490717/b918f18c-7e24-487f-8e71-96c579fe8791)
