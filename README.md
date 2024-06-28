@@ -32,7 +32,7 @@ Project complete; Git repo up to date.
 
 </br>
 
-Motion control using onboard rotation sensor 🔄
+Motion control using onboard rotation sensor 🔄 </br>
 ![tiltingdemo](https://github.com/BurhanNaveed0/SpaceDodger/assets/81490717/b918f18c-7e24-487f-8e71-96c579fe8791)
 
 ## Reflection 📝
