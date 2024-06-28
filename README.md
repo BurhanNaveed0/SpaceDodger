@@ -1,6 +1,6 @@
 ## Space Dodger 🚀
 
-A top down style video 
+A top down style video game developed using Android Studio and Java where the player's spaceship must dodge oncoming Asteroids. This game makes use of Android Studio's SurfaceView (Canvas feature) aswell as threads to asynconously handle game data. The game's graphics implement the paralax effect, where movement is created in the visual effects by slowing the speeds of planets in the background depending on how far they are from the camera. 
 
 ![compressedgifdemo](https://github.com/BurhanNaveed0/SpaceDodger/assets/81490717/d91f54cd-fc52-49f2-ae6a-5d0c4e1c3016)
 
